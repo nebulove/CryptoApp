@@ -1,7 +1,7 @@
-package com.demo.cryptoappnew.api
+package com.demo.cryptoappnew.data.network
 
-import com.demo.cryptoappnew.pojo.CoinInfoListOfData
-import com.demo.cryptoappnew.pojo.CoinPriceInfoRawData
+import com.demo.cryptoappnew.data.model.CoinInfoListOfData
+import com.demo.cryptoappnew.data.model.CoinPriceInfoRawData
 import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Query

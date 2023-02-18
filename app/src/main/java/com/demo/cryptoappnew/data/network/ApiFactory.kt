@@ -1,4 +1,4 @@
-package com.demo.cryptoappnew.api
+package com.demo.cryptoappnew.data.network
 
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
