@@ -35,8 +35,6 @@ class CoinPriceLIstActivity : AppCompatActivity() {
             adapter.submitList(it)
         }
     }
-
-
 }
 
 
